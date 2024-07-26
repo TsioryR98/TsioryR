@@ -1,9 +1,6 @@
 ## Hi there 👋 I'm Tsiory RAMIADAMAHEFA!
 #I'm a computer science and enthusiast student from HEI MADAGASCAR. I aim to be a full stack Developper.
 
-![](https://komarev.com/ghpvc/?username=your_username&color=give_your_color)
-
-
 
 <h2>When I code, I rely on</h2>
 <p>
