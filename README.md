@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Tsiory RAMIADAMAHEFA!
-#I'm a computer science and enthusiast student from HEI MADAGASCAR. I aim to be a full stack Developper.
+# I'm a computer science and enthusiast student from HEI MADAGASCAR. I aim to be a full stack Developper.
 
 
 <h2>When I code, I rely on</h2>
