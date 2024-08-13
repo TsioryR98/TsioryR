@@ -23,7 +23,7 @@ I'm a computer science and enthusiast student from HEI MADAGASCAR. I aim to be a
 
 ### OS:
 
-| Linux | Ubuntu | Kali |
-|----------|----------|----------|
+| Linux | Ubuntu |
+|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | 
 
