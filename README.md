@@ -27,3 +27,9 @@ I'm a computer science and enthusiast student from HEI MADAGASCAR. I aim to be a
 |----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="65" height="65"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="65" height="65"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch" alt="Arch" width="65" height="65"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg" title="Windows" alt="Windows" width="65" height="65"/> | 
 
+### TOOLS:
+
+| IntelliJ | VsCode | Webstorm |  OpenAPI |
+|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij" alt="intellij" width="65" height="65"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="65" height="65"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="webstorm" alt="webstorm" width="65" height="65"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg" title="openapi" alt="openapi" width="65" height="65"/> | 
+
